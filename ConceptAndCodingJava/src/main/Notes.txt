@@ -1,0 +1,24 @@
+OOPS - Object Oriented Programming System.
+Class is a blueprint, Here Object is a real world Entity.
+- Program is divided into Objects.
+- Objects provide data hiding, gives important to data.
+- Overloading, Inheritance is possible.
+- Code Reusability is present.
+
+Objects has 2 Things: Properties[State] and Behaviour[Function].
+
+To Create an Object a class is required.
+So class provides a blueprint from which objects can be created.
+From one class we can create multiple objects.
+
+Abstraction: It hides the internal implementation ans show only the essential functionality to the user.
+             It can be achieved through Interface and Abstract class.
+Encapsulation: Make variables as private, Use Getters and Setters to modify/view the value of the variables.
+Inheritance: Capability of a class to inherit the properties from their Parent class. can be achieved using extends.
+             It can inherit both functions and variables, so we dont have to write them again in child class.
+Polymorphism: It can be achieved using [Compile Time / Method Overloading] and [Run Time / Method Overriding].
+
+Objects Relationships:
+Is-A-Relationship: Achieve through Inheritance. [Dog IS-A Animal, Car IS-A Animal...]
+Has-A-Relationship: Whenever an object is used in another class. [School HAS Students, Bike HAS Engine...]
+
