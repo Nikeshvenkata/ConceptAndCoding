@@ -1,4 +1,19 @@
-OOPS - Object Oriented Programming System.
+Concept && Coding
+
+OOPs Fundamentals: Class, Object, Constructor, 4 Pillars [Abstraction, Encapsulation, Polymorphism, Inheritance].
+Basics of Java: JDK, JVM, JRE, What is Java, First Program In Java, etc…
+One Level Deeper: Abstract, Inner class, [static, Final, Primitive variables], Pass By Value, Pass By Reference, Garbage Collector.
+Different Operators, Control Flow Statements: All Types of Operators, [if else, switch, for, while, do while, break, continue].
+MultiThreading & Concurrency: UnderStand multiple ways to achieve multithreading.
+Exception Handling: Handling of Compile Time and Run Time Errors.
+Generic Programming: Understanding how to write Generic Classes and Methods in Java.
+Java Collections: List, Queue, Set, Map.
+Java 8 Features: Functional Interface, Lambda Expression, Stream API’s, Predicate, Default and Static methods in Interface.
+
+Unit Testing: Understanding how to do unit testing of java code.[Mockito Framework]
+
+
+OOPs Fundamentals: Object Oriented Programming System.
 Class is a blueprint, Here Object is a real world Entity.
 - Program is divided into Objects.
 - Objects provide data hiding, gives important to data.
